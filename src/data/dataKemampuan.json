@@ -1,0 +1,10 @@
+[
+  { "link": "./excel.png", "tingkat": 3 },
+  { "link": "./word.png", "tingkat": 5 },
+  { "link": "./cisco.jpg", "tingkat": 2 },
+  { "link": "./mikrotik.jpg", "tingkat": 3 },
+  { "link": "./html.png", "tingkat": 5 },
+  { "link": "./css.png", "tingkat": 4 },
+  { "link": "./js.png", "tingkat": 3 },
+  { "link": "./logo192.png", "tingkat": 3 }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "img": "./airku.jpg",
+    "desc": "Project airku adalah webste yang di buat dengan menggunakan React dan Typescript. Di sana saya bertindak sebagai coder."
+  },
+  {
+    "img": "./profilWeb.png",
+    "desc": "website profil pribadi website Pertama kali yang saya buat menggunakan framework css boostrap"
+  }
+]

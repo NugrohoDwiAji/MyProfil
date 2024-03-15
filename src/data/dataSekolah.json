@@ -1,0 +1,22 @@
+[
+  {
+    "link": "./sd.png",
+    "name": "SDN 8 Sokong",
+    "tahun": "2009-2015"
+  },
+  {
+    "link": "./smp.png",
+    "name": "SMPN 1 Tanjung",
+    "tahun": "2015-2018"
+  },
+  {
+    "link": "./sma.png",
+    "name": "SMAN 1 Tanjung",
+    "tahun": "2018-2021"
+  },
+  {
+    "link": "./kuliah.png",
+    "name": "Universitas Bumigora",
+    "tahun": "2021-Sekarang"
+  }
+]
