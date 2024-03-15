@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Helmet } from "react-helmet";
 
 // component
 import CardSekolah from "./component/CardSekolah";
@@ -21,6 +21,9 @@ import { PiCopyrightLight } from "react-icons/pi";
 export default function App() {
   return (
     <div>
+      <Helmet>
+        <title>NugrohoDwiAji</title>
+      </Helmet>
       {/* Foto */}
       <div className="mt-16 bg-[#11E5BB] bg-opacity-30 w-full h-80 md:h-[24rem] flex flex-col justify-center items-center " name="home">
         <img
